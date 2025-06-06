@@ -32,7 +32,7 @@ data = {
     'Images_File': [
         'Images_File/Ashwagandha.jpg',
         'Images_File/Tulsi.jpg',
-        'Images_File/Aloevera.jpg',
+        'Images_File/AloeVera.jpg',
         'Images_File/Powder.jpg',
         'Images_File/Brahmi.jpg',
         'Images_File/Neems Capsule.jpg',
