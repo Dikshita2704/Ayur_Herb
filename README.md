@@ -48,8 +48,6 @@ streamlit run herbal_app.py
 
 ## Collaborators
 
-Thanks to the following people for contributing to this project:
-
 - https://github.com/Dikshita2704
 - https://github.com/SamikshaSuryawanshi1911
 
