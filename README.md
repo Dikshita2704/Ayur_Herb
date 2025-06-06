@@ -14,22 +14,34 @@ AyurHerb is a Streamlit-based web application that recommends herbal products ba
 ---
 
 ## ▶️ How to Run the Project
+**1. Clone the repository:**
 
-1. Clone the repository:
-   git clone https://github.com/SamikshaSuryawanshi1911/AyurHerb.git
-   cd Herbal\ Product
-2.Install required packages:
-   pip install streamlit pillow pandas
-3.Run the Streamlit app:
-   treamlit run herbal_app.py
+git clone https://github.com/SamikshaSuryawanshi1911/AyurHerb.git
 
-🧠 Supported Health Concerns
-Stress
-Immunity
-Acne
-Digestion
+cd Herbal Product
 
-🛠️ Technologies Used
-Python
-Streamlit
-Pandas
+**2.Install required packages:**
+
+pip install streamlit pillow pandas
+
+**3.Run the Streamlit app:**
+   
+streamlit run herbal_app.py
+
+**🧠 Supported Health Concerns**
+
+-Stress
+
+-Immunity
+
+-Acne
+
+-Digestion
+
+**🛠️ Technologies Used**
+
+-Python
+
+-Streamlit
+
+-Pandas
