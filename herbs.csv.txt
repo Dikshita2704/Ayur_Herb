@@ -1,0 +1,9 @@
+Name,Category,Benefits,Recommended_For,Price
+Ashwagandha,Energy,Reduces stress and increases vitality,Stress,250
+Tulsi Drops,Immunity,Boosts immunity and fights colds,Immunity,180
+Aloe Vera Gel,Skincare,Heals skin and reduces acne,Acne,150
+Triphala Powder,Digestive,Improves digestion and detoxifies body,Digestion,200
+Brahmi,Brain Health,Enhances memory and cognitive function,Memory,220
+Neem Capsules,Skincare,Purifies blood and prevents acne,Acne,160
+Giloy,Immunity,Fights infections and purifies blood,Immunity,190
+Shankhpushpi,Brain Health,Reduces anxiety and improves focus,Stress,210
